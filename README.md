@@ -1,9 +1,8 @@
 # NetCheck
-
 A tool to extract a list of all open connection ports, a list of processes and programs running on the computer, and check if there are any suspicious programs connected
 
-How do I determine what port an application is using?
-How do I determine what application is using a specific port?
+    How do I determine what port an application is using?
+    How do I determine what application is using a specific port?
 
 # list all the connections  listening ports
     Active Connections
