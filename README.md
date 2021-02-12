@@ -15,11 +15,9 @@ A tool to extract a list of all open connection ports, a list of processes and p
 
     Proto  Local Address          Foreign Address        State           PID
     TCP    192.168.1.3:5053       51.102.4.150:1177      LISTENING       1136
-    TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
   
     Image Name                     PID Session Name        Session#    Mem Usage
     ========================= ======== ================ =========== ============
-    System Idle Process              0 Services                   0          4 K
     trojen.exe                    1136 Console                    1      1,744 K
 
 
